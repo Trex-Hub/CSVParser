@@ -1,4 +1,4 @@
-"ID","Category","Name","Severity","Result","Recommended","TestResult","SeverityFinding"
+"id","category","name","severity","result","recommended","testResult","severityFinding"
 "1000","Features","SMBv1 Support","Passed","Disabled","Disabled","Passed","High"
 "1103","Account Policies","Store passwords using reversible encryption","Passed","0","0","Passed","High"
 "1101","Account Policies","Account lockout duration","Low","10","15","Failed","Low"
